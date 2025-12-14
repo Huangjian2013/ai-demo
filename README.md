@@ -19,10 +19,10 @@
 - **进阶篇**：掌握 LangChain 和 LlamaIndex 框架的使用。
 - **高阶篇**：探索 GraphRAG 等前沿技术。
 
-### 3. [🤖 AI Agent - 智能体 (Code)](./code/README.md)
-**适合人群**：对构建自主智能体、多智能体协作感兴趣的进阶开发者。
+### 3. [🤖 OpenAI 技术演示 (OpenAI)](./OpenAI/README.md)
+**适合人群**：对 OpenAI 最新技术（如 Swarm 多智能体框架）感兴趣的开发者。
 - 学习 OpenAI Swarm 框架。
-- 探索多智能体协作模式。
+- 探索基于 OpenAI 技术栈的 Agent 开发。
 
 ### 4. [✨ 特色功能演示 (Feature)](./feature/README.md)
 **适合人群**：寻找特定 AI 应用场景灵感的开发者。
@@ -40,7 +40,7 @@
 1.  **基础入门**：先浏览 `ebooks` 中的入门资料，了解 LLM 的基本概念。
 2.  **动手实践**：从 `prompt` 目录开始，学习如何与 AI 对话。
 3.  **核心技术**：深入 `rag` 目录，这是目前最热门的 LLM 企业级应用方向。
-4.  **进阶探索**：尝试 `code` 目录中的 Agent 案例，构建更复杂的 AI 应用。
+4.  **进阶探索**：尝试 `OpenAI` 目录中的案例，构建基于 Swarm 的 Agent 应用。
 5.  **拓展视野**：查看 `feature` 目录，了解 AI 在不同领域的应用潜力。
 
 ---

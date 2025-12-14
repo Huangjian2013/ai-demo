@@ -1,6 +1,6 @@
-# AI Agents & Frameworks
+# OpenAI 技术演示 (OpenAI Tech Demos)
 
-本模块聚焦于 **AI Agent（智能体）** 的开发与实践。Agent 是 LLM 应用的下一个阶段，它不仅能回答问题，还能使用工具、执行任务并相互协作。
+本模块专门用于演示 **OpenAI** 发布的最新技术、框架和与其相关的代码实现。目前主要聚焦于多智能体协作框架。
 
 ## 🤖 OpenAI Swarm 框架
 
